@@ -37,4 +37,7 @@ docker-compose up
 
 ## Reference
 >https://hub.docker.com/_/postgres <br>
->https://oesni.github.io/til/dockerize-postgresql/
+>https://github.com/docker-library/docs/blob/master/postgres/README.md <br>
+>https://oesni.github.io/til/dockerize-postgresql/ <br>
+
+Any Environment Variables and Configurations on [this documentation](https://github.com/docker-library/docs/blob/master/postgres/README.md) should work.
