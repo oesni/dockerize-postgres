@@ -1,4 +1,4 @@
-### Dockerize postgresql database
+# Dockerize postgresql database
 Dockerize running postgresql database. All database on target server is dockerized.
 
 ## Update env.sh
